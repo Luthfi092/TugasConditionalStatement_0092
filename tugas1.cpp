@@ -29,7 +29,7 @@ void Input_Data(float &berat, float &tinggi){
 int main(){
     float berat, tinggi, bmi;
 
- 
+    cout << "--- selamat datang mahasiswa kelas E 2026 ---" << endl;
 
   
 
