@@ -22,7 +22,7 @@ string Status_BMI(float bmi){
 void Input_Data(float &berat, float &tinggi){
     cout << "Masukkan berat badan (kg): ";
     cin >> berat;
-    cout << "Masukkan tinggi badan (centi meter): ";
+    cout << "Masukkan tinggi badan (cm): ";
     cin >> tinggi;
 }
 
