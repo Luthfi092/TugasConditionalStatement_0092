@@ -19,4 +19,6 @@ string Status_BMI(float bmi){
 }
 
 
-
+void Input_Data(float &berat, float &tinggi){
+    
+}
